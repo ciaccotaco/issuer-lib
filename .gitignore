@@ -27,3 +27,6 @@ testbin/*
 _bin
 _certs
 .vscode
+
+# Temp for personal development (REMOVE)
+vendor
